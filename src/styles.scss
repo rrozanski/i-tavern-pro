@@ -1,0 +1,44 @@
+@import './styles/fonts';
+@import './styles/utils';
+@import './styles/imports';
+// sass-lint:disable no-transition-all
+// sass-lint:disable no-ids
+
+#app {
+  color: $primary-color;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// sass-lint:disable no-important
+.btn-dark,
+.btn-outline-dark {
+  border-radius: 2px !important;
+}
+
+.ra-skull {
+  color: $primary-color;
+}
+
+.slide-fade-enter-active,
+.slide-fade-leave-active {
+  transition: opacity 0.8s, transform 0.8s;
+}
+
+.slide-fade-enter,
+.slide-fade-leave-to {
+  opacity: 0;
+  transform: translateX(25%);
+}
+
+.spinner {
+  &-container {
+    display: flex;
+    justify-content: center;
+    padding: 5rem 0;
+  }
+
+  width: 5rem;
+  height: 5rem;
+}

@@ -1,0 +1,68 @@
+{
+  "HEADER": {
+    "SUBTITLE": "Zostań na chwilę i posłuchaj!"
+  },
+  "QUESTS": {
+    "NAME": "Nazwa",
+    "STATUS": "Status",
+    "GO_BACK_BUTTON": "Powrót do Karczmy",
+    "NO_QUESTS_MESSAGE": "Brak zadań. Spróbuj później.",
+    "STATUS_OPTIONS": {
+      "AVAILABLE": "Dostępny",
+      "IN_PROGRESS": "W realizacji",
+      "COMPLETED": "Ukończony"
+    }
+  },
+  "HERO_ABILITIES": {
+    "DEXTERITY": "Zręczność",
+    "STRENGTH": "Siła",
+    "WISDOM": "Mądrość"
+  },
+  "HERO_LIST": {
+    "NAME":  "Imię",
+    "GENDER": "Płeć",
+    "RACE":  "Rasa",
+    "CLASS": "Klasa",
+    "NO_HEROES_MESSAGE": "Brak bohaterów w Twojej drużynie.",
+    "QUESTS_BUTTON": "Zadania",
+    "CREATE_HERO_BUTTON": "Stwórz Bohatera",
+    "REMOVE_HERO_CONFIRMATION": "Na pewno chcesz usunąć tego bohatera z Twojej drużyny?"
+  },
+  "EMBARK_SECTION": {
+    "PARTY_NOT_READY_MESSAGE": "Przed wyruszeniem w drogę należy zebrać drużynę.",
+    "PARTY_READY_MESSAGE": "Twoja drużyna jest gotowa. Powodzenia!",
+    "NOT_ENOUGH_HEROES_MESSAGE": "(potrzebujesz jeszcze conajmniej {neededHeroes} bohatera aby utworzyć drużynę) | (potrzebujesz jeszcze conajmniej {neededHeroes} bohaterów aby utworzyć drużynę)",
+    "EMBARK_BUTTON": "Wyrusz na przygodę"
+  },
+  "NEW_HERO_FORM": {
+    "TITLE": "Stwórz Bohatera",
+    "NAME": "Imię",
+    "GENDER": "Płeć",
+    "RACE": "Rada",
+    "CLASS": "Klasa",
+    "CANCEL_BUTTON": "Anuluj",
+    "CREATE_HERO_BUTTON": "Stwórz Bohatera"
+  },
+  "GENDER_OPTIONS": {
+    "FEMALE": "Kobieta",
+    "MALE": "Mężczyzna"
+  },
+  "RACE_OPTIONS": {
+    "DWARF": "Krasnolud",
+    "ELF": "Elf",
+    "HUMAN": "Człowiek"
+  },
+  "CLASS_OPTIONS": {
+    "FIGHTER": "Wojownik | Wojownicy",
+    "ROGUE": "Łotrzyk | Łotrzykowie",
+    "WIZARD": "Czarodziej | Czarodzieje"
+  },
+  "LANGUAGES": {
+    "EN": "Angielski",
+    "PL": "Polski"
+  },
+  "FORM_ERRORS": {
+    "REQUIRED": "To pole jest wymagane.",
+    "MAX_LENGTH": "Maksymalna długość tekstu: {max} znaków."
+  }
+}
