@@ -68,7 +68,7 @@ Sample application prepared for Vue workshop.
 
 - Vue Devtools extension: [https://github.com/vuejs/vue-devtools](https://github.com/vuejs/vue-devtools)
 
-## Source code of specific steps of the workshop
+## Source code for completed application
 
 Source code for completed application is available on the branch:
 ```
