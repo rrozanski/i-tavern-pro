@@ -1,0 +1,68 @@
+{
+  "HEADER": {
+    "SUBTITLE": "Stay awhile and listen!"
+  },
+  "QUESTS": {
+    "NAME": "Name",
+    "STATUS": "Status",
+    "GO_BACK_BUTTON": "Go back to Tavern",
+    "NO_QUESTS_MESSAGE": "There are no quests. Try again later.",
+    "STATUS_OPTIONS": {
+      "AVAILABLE": "Available",
+      "IN_PROGRESS": "In Progress",
+      "COMPLETED": "Completed"
+    }
+  },
+  "HERO_ABILITIES": {
+    "DEXTERITY": "Dexterity",
+    "STRENGTH": "Strength",
+    "WISDOM": "Wisdom"
+  },
+  "HERO_LIST": {
+    "NAME":  "Name",
+    "GENDER": "Gender",
+    "RACE":  "Race",
+    "CLASS": "Class",
+    "NO_HEROES_MESSAGE": "There are no heroes in your party.",
+    "QUESTS_BUTTON": "Quests",
+    "CREATE_HERO_BUTTON": "Create a Hero",
+    "REMOVE_HERO_CONFIRMATION": "Are you sure you want to remove this hero from the party?"
+  },
+  "EMBARK_SECTION": {
+    "PARTY_NOT_READY_MESSAGE": "You must gather your party before venturing forth.",
+    "PARTY_READY_MESSAGE": "Your party is ready. Good luck!",
+    "NOT_ENOUGH_HEROES_MESSAGE": "(you need at least {neededHeroes} more hero to create a party) | (you need at least {neededHeroes} more heroes to create a party)",
+    "EMBARK_BUTTON": "Embark on Adventure"
+  },
+  "NEW_HERO_FORM": {
+    "TITLE": "Create a Hero",
+    "NAME": "Name",
+    "GENDER": "Gender",
+    "RACE": "Race",
+    "CLASS": "Class",
+    "CANCEL_BUTTON": "Cancel",
+    "CREATE_HERO_BUTTON": "Create a Hero"
+  },
+  "GENDER_OPTIONS": {
+    "FEMALE": "Female",
+    "MALE": "Male"
+  },
+  "RACE_OPTIONS": {
+    "DWARF": "Dwarf",
+    "ELF": "Elf",
+    "HUMAN": "Human"
+  },
+  "CLASS_OPTIONS": {
+    "FIGHTER": "Fighter | Fighters",
+    "ROGUE": "Rogue | Rogues",
+    "WIZARD": "Wizard | Wizards"
+  },
+  "LANGUAGES": {
+    "EN": "English",
+    "PL": "Polish"
+  },
+  "FORM_ERRORS": {
+    "REQUIRED": "This field is required.",
+    "MAX_LENGTH": "Maximum length: {max} characters."
+  }
+}
