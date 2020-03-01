@@ -31,3 +31,14 @@
   opacity: 0;
   transform: translateX(25%);
 }
+
+.spinner {
+  &-container {
+    display: flex;
+    justify-content: center;
+    padding: 5rem 0;
+  }
+
+  width: 5rem;
+  height: 5rem;
+}
